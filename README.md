@@ -1,5 +1,4 @@
-
-# Create you Decentralized Vesting App Contract
+# Eth Advance
 This contract implements a vesting mechanism for distributing tokens to stakeholders over a specified period of time. It allows organizations to create stakeholders, set vesting periods, and whitelist addresses for t# Requirements:
 1. MetaMask extension installed in your web browser.
 
@@ -53,11 +52,6 @@ Additional Commands:
   npx hardhat test
   ```
 
-# Author:
-[[Samaila Anthony Malima](https://github.com/samailamalima)] 
-
 # License
 This project is licensed under the MIT License.
-
-# Acknowledgements
-All the Metacrafters contain
+- - -
